@@ -1,6 +1,6 @@
 # Opdracht 1
-# Naam student:
-# Groep:
+# Naam student: sarmand
+# Groep: 4itx3
 
 # Hier komt je code...
 
